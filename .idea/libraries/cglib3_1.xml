@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cglib3.1">
+    <CLASSES>
+      <root url="jar://E:/jar/cglib/asm-5.0.4.jar!/" />
+      <root url="jar://E:/jar/cglib/cglib-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
